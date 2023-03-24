@@ -1,3 +1,9 @@
+Exercício 1: Ordenar uma lista de nomes de alunos usando dois algoritmos de busca;
+Exercício 2: Construir algoritmo de geração de número fatorial (N!) recursivo e não-recursivo;
+Exercício 3: Construa um algoritmo para fila com suas quatro operações: inserir,  remover, tamanho e próximo a sair da fila;
+Exercício 4: Construa algoritmo que conte o número de vezes que uma palavra aparece em um arquivo;
+
+
 Procedimentos para executar:
 - Faça o download do repositório
 
