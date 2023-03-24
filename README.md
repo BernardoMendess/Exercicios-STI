@@ -5,9 +5,9 @@ Exercicios 1, 2 e 3:
 
 - Abra o terminal na pasta do exercício e execute os comandos, substuindo 'nome' pelo nome do arquivo:
 
-gcc 'nome'.c -o 'nome'.exe
+'gcc nome.c -o nome.exe'
 
-.\'nome'.exe
+'.\nome.exe'
 
 Exercicio 4:
 
