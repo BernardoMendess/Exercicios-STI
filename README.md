@@ -17,4 +17,6 @@ Exercicio 4:
 
 - Já foi adicionado um arquivo de texto
 
-
+*Observações:
+- É necessário que o python e que o MinGW estejam instalados no computador
+- É necessário adicionar o python e o MinGW á variável de ambiente PATH do Windows
