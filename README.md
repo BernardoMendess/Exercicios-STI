@@ -13,7 +13,7 @@ Exercicio 4:
 
 - Abra o terminal na pasta do exercício e execute o comando, substuindo 'nome' pelo nome do arquivo:
 
-python 'nome'.py
+'python nome.py'
 
 - Já foi adicionado um arquivo de texto
 
