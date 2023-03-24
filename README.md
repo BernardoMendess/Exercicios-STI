@@ -25,4 +25,3 @@ Exercicio 4:
 
 *Observações:
 - É necessário que o python e que o MinGW estejam instalados no computador
-- É necessário adicionar o python e o MinGW à variável de ambiente PATH do Windows
